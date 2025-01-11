@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-Welcome, I conduct field research and development for the <br>
-advancement of plasma physics; industrial robotics; and distributed C2 systems.
+Welcome, I conduct field research and development for the advancement of<br>
+plasma physics, industrial robotics, distributed C2 systems, and sometimes the occasional grift.
 </p>
